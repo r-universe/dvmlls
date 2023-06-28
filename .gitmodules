@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bdscale"]
 	path = bdscale
 	url = https://github.com/dvmlls/bdscale
-	shallow = true
-	registered = true
